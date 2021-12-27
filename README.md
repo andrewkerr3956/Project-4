@@ -1,4 +1,8 @@
-# Project-4
+# Project-4 <p />
+Links to projects: <br />
+Web: https://hidden-fortress-58471.herokuapp.com/ <br />
+API: https://desolate-island-76676.herokuapp.com/ <p />
+
 Name: Andrew Kerr <p />
 
 Overview/Description: This project is meant to be an easy-to-use stock trading application. Be careful as the application will only track your progress if you are logged into your account. Utilizing the power of the browser's session storage and a database, your portfolio will stay in tact. <p />
